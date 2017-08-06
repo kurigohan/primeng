@@ -13,10 +13,6 @@ showcase/theming/*.js
 # production showcase bundle
 prod
 
-# distribution resources
-resources/**/*.css
-resources/images
-
 # type definition
 *.d.ts
 
@@ -24,7 +20,7 @@ resources/images
 aot
 components/**/*.metadata.json
 
-# misc 
+# misc
 *.log
 .DS_STORE
 .idea
